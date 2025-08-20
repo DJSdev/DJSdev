@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJSdev&show_icons=true&rank_icon=percentile)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJSdev&layout=compact)
 
 <!--
