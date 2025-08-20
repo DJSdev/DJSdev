@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJSdev&show_icons=true&rank_icon=percentile)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJSdev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJSdev&layout=donut&hide=html,css)
 
 <!--
 **DJSdev/DJSdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
